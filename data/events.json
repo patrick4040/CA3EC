@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "Football Match",
+    "category": "Sports",
+    "date": "2026-05-01",
+    "time": "18:00",
+    "location": "Main Pitch",
+    "description": "Inter-college football match",
+    "attendance": 120
+  },
+  {
+    "id": 2,
+    "title": "Basketball Tournament",
+    "category": "Sports",
+    "date": "2026-05-03",
+    "time": "17:00",
+    "location": "Sports Hall",
+    "description": "5v5 student tournament",
+    "attendance": 90
+  },
+  {
+    "id": 3,
+    "title": "Coding Workshop",
+    "category": "Academic",
+    "date": "2026-05-04",
+    "time": "14:00",
+    "location": "Room A1",
+    "description": "Intro to web development",
+    "attendance": 60
+  },
+  {
+    "id": 4,
+    "title": "AI Seminar",
+    "category": "Academic",
+    "date": "2026-05-06",
+    "time": "12:00",
+    "location": "Lecture Hall 2",
+    "description": "Future of artificial intelligence",
+    "attendance": 75
+  },
+  {
+    "id": 5,
+    "title": "Movie Night",
+    "category": "Social",
+    "date": "2026-05-07",
+    "time": "20:00",
+    "location": "Student Lounge",
+    "description": "Outdoor movie screening",
+    "attendance": 150
+  },
+  {
+    "id": 6,
+    "title": "Board Games Evening",
+    "category": "Social",
+    "date": "2026-05-08",
+    "time": "19:00",
+    "location": "Common Room",
+    "description": "Relax with friends and games",
+    "attendance": 40
+  },
+  {
+    "id": 7,
+    "title": "Maths Study Group",
+    "category": "Academic",
+    "date": "2026-05-09",
+    "time": "16:00",
+    "location": "Library Room 3",
+    "description": "Group study session",
+    "attendance": 25
+  },
+  {
+    "id": 8,
+    "title": "Volleyball Match",
+    "category": "Sports",
+    "date": "2026-05-10",
+    "time": "18:30",
+    "location": "Outdoor Court",
+    "description": "Friendly volleyball game",
+    "attendance": 55
+  },
+  {
+    "id": 9,
+    "title": "Career Fair",
+    "category": "Career",
+    "date": "2026-05-12",
+    "time": "11:00",
+    "location": "Main Hall",
+    "description": "Meet employers and recruiters",
+    "attendance": 200
+  },
+  {
+    "id": 10,
+    "title": "CV Workshop",
+    "category": "Career",
+    "date": "2026-05-13",
+    "time": "13:00",
+    "location": "Room B2",
+    "description": "Improve your CV",
+    "attendance": 70
+  },
+  {
+    "id": 11,
+    "title": "Music Night",
+    "category": "Social",
+    "date": "2026-05-14",
+    "time": "21:00",
+    "location": "Campus Bar",
+    "description": "Live student performances",
+    "attendance": 130
+  },
+  {
+    "id": 12,
+    "title": "Yoga Session",
+    "category": "Health",
+    "date": "2026-05-15",
+    "time": "10:00",
+    "location": "Wellness Centre",
+    "description": "Morning relaxation session",
+    "attendance": 35
+  },
+  {
+    "id": 13,
+    "title": "Hackathon",
+    "category": "Academic",
+    "date": "2026-05-16",
+    "time": "09:00",
+    "location": "Tech Lab",
+    "description": "24-hour coding event",
+    "attendance": 80
+  },
+  {
+    "id": 14,
+    "title": "Art Exhibition",
+    "category": "Social",
+    "date": "2026-05-18",
+    "time": "15:00",
+    "location": "Gallery",
+    "description": "Student artwork display",
+    "attendance": 65
+  },
+  {
+    "id": 15,
+    "title": "Tennis Match",
+    "category": "Sports",
+    "date": "2026-05-19",
+    "time": "17:30",
+    "location": "Tennis Courts",
+    "description": "Singles competition",
+    "attendance": 45
+  },
+  {
+    "id": 16,
+    "title": "Guest Lecture: Cybersecurity",
+    "category": "Academic",
+    "date": "2026-05-20",
+    "time": "14:00",
+    "location": "Lecture Hall 1",
+    "description": "Industry expert talk",
+    "attendance": 90
+  },
+  {
+    "id": 17,
+    "title": "Open Mic Night",
+    "category": "Social",
+    "date": "2026-05-21",
+    "time": "20:00",
+    "location": "Campus Café",
+    "description": "Perform music or poetry",
+    "attendance": 85
+  },
+  {
+    "id": 18,
+    "title": "Fitness Bootcamp",
+    "category": "Health",
+    "date": "2026-05-22",
+    "time": "08:00",
+    "location": "Gym",
+    "description": "High intensity workout",
+    "attendance": 50
+  },
+  {
+    "id": 19,
+    "title": "Debate Competition",
+    "category": "Academic",
+    "date": "2026-05-23",
+    "time": "16:00",
+    "location": "Room C1",
+    "description": "Inter-department debate",
+    "attendance": 55
+  },
+  {
+    "id": 20,
+    "title": "End of Semester Party",
+    "category": "Social",
+    "date": "2026-05-25",
+    "time": "22:00",
+    "location": "Main Hall",
+    "description": "Celebrate the semester end",
+    "attendance": 250
+  }
+]

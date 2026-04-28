@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "item_name": "Black Wallet",
+    "description": "Leather wallet with student ID inside",
+    "location_found": "Library",
+    "date_reported": "2026-04-20",
+    "status": "Found"
+  },
+  {
+    "id": 2,
+    "item_name": "iPhone 13",
+    "description": "Blue phone with cracked screen",
+    "location_found": "Cafeteria",
+    "date_reported": "2026-04-21",
+    "status": "Found"
+  },
+  {
+    "id": 3,
+    "item_name": "Backpack",
+    "description": "Black Nike backpack with books",
+    "location_found": "Lecture Hall 2",
+    "date_reported": "2026-04-22",
+    "status": "Lost"
+  },
+  {
+    "id": 4,
+    "item_name": "Keys",
+    "description": "Set of keys with red keychain",
+    "location_found": "Main Entrance",
+    "date_reported": "2026-04-22",
+    "status": "Found"
+  },
+  {
+    "id": 5,
+    "item_name": "AirPods Case",
+    "description": "White AirPods case without earbuds",
+    "location_found": "Gym",
+    "date_reported": "2026-04-23",
+    "status": "Lost"
+  },
+  {
+    "id": 6,
+    "item_name": "Notebook",
+    "description": "Blue notebook with maths notes",
+    "location_found": "Library",
+    "date_reported": "2026-04-23",
+    "status": "Found"
+  },
+  {
+    "id": 7,
+    "item_name": "Water Bottle",
+    "description": "Metal bottle with stickers",
+    "location_found": "Sports Hall",
+    "date_reported": "2026-04-24",
+    "status": "Lost"
+  },
+  {
+    "id": 8,
+    "item_name": "Laptop Charger",
+    "description": "Dell charger with black cable",
+    "location_found": "Room A1",
+    "date_reported": "2026-04-24",
+    "status": "Found"
+  },
+  {
+    "id": 9,
+    "item_name": "Glasses",
+    "description": "Black frame prescription glasses",
+    "location_found": "Cafeteria",
+    "date_reported": "2026-04-25",
+    "status": "Lost"
+  },
+  {
+    "id": 10,
+    "item_name": "Umbrella",
+    "description": "Foldable black umbrella",
+    "location_found": "Bus Stop",
+    "date_reported": "2026-04-25",
+    "status": "Found"
+  },
+  {
+    "id": 11,
+    "item_name": "Student ID Card",
+    "description": "ID card for 'John Murphy'",
+    "location_found": "Library",
+    "date_reported": "2026-04-26",
+    "status": "Found"
+  },
+  {
+    "id": 12,
+    "item_name": "Headphones",
+    "description": "Over-ear Sony headphones",
+    "location_found": "Study Room 1",
+    "date_reported": "2026-04-26",
+    "status": "Lost"
+  },
+  {
+    "id": 13,
+    "item_name": "Jacket",
+    "description": "Grey hoodie left behind",
+    "location_found": "Lecture Hall 1",
+    "date_reported": "2026-04-27",
+    "status": "Found"
+  },
+  {
+    "id": 14,
+    "item_name": "Tablet",
+    "description": "Samsung tablet with black case",
+    "location_found": "Library",
+    "date_reported": "2026-04-27",
+    "status": "Lost"
+  },
+  {
+    "id": 15,
+    "item_name": "Sports Bag",
+    "description": "Large Adidas sports bag",
+    "location_found": "Gym",
+    "date_reported": "2026-04-28",
+    "status": "Found"
+  }
+]

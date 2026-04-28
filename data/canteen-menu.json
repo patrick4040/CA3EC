@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Fillet Roll",
+    "category": "Main",
+    "price": 4.50,
+    "availability": true
+  },
+  {
+    "id": 2,
+    "name": "Spice Bag",
+    "category": "Main",
+    "price": 6.00,
+    "availability": true
+  },
+  {
+    "id": 3,
+    "name": "Cheeseburger",
+    "category": "Main",
+    "price": 5.50,
+    "availability": true
+  },
+  {
+    "id": 4,
+    "name": "Veggie Wrap",
+    "category": "Main",
+    "price": 4.80,
+    "availability": true
+  },
+  {
+    "id": 5,
+    "name": "Chips",
+    "category": "Sides",
+    "price": 2.50,
+    "availability": true
+  },
+  {
+    "id": 6,
+    "name": "Garlic Cheese Chips",
+    "category": "Sides",
+    "price": 3.50,
+    "availability": true
+  },
+  {
+    "id": 7,
+    "name": "Chicken Nuggets",
+    "category": "Sides",
+    "price": 3.00,
+    "availability": true
+  },
+  {
+    "id": 8,
+    "name": "Sausage Roll",
+    "category": "Snacks",
+    "price": 2.20,
+    "availability": true
+  },
+  {
+    "id": 9,
+    "name": "Ham & Cheese Toastie",
+    "category": "Snacks",
+    "price": 3.20,
+    "availability": true
+  },
+  {
+    "id": 10,
+    "name": "Chocolate Muffin",
+    "category": "Desserts",
+    "price": 2.00,
+    "availability": true
+  },
+  {
+    "id": 11,
+    "name": "Apple Pie",
+    "category": "Desserts",
+    "price": 2.50,
+    "availability": true
+  },
+  {
+    "id": 12,
+    "name": "Tea",
+    "category": "Drinks",
+    "price": 1.50,
+    "availability": true
+  },
+  {
+    "id": 13,
+    "name": "Coffee",
+    "category": "Drinks",
+    "price": 2.00,
+    "availability": true
+  },
+  {
+    "id": 14,
+    "name": "Orange Juice",
+    "category": "Drinks",
+    "price": 2.20,
+    "availability": true
+  },
+  {
+    "id": 15,
+    "name": "Water Bottle",
+    "category": "Drinks",
+    "price": 1.00,
+    "availability": true
+  }
+]
